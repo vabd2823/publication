@@ -1,0 +1,9 @@
+cff-version: 0.1.2
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Vera
+    given-names: Abdullah
+    orcid: https://orcid.org/0000-0003-4102-9961
+title: vabd2823/publication: Matrix Data. RNL-SKA1
+version: 0.1.2
+date-released: 2023-08-22
